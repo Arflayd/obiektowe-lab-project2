@@ -1,5 +1,5 @@
 # obiektowe-lab-project2
-Drugi projekt z laboratoriów programowania obiektowego
+Drugi projekt z laboratoriów programowania obiektowego  
 Czołgi Superhot
 
 Sterowanie:
